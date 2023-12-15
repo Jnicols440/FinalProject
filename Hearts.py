@@ -559,7 +559,7 @@ while totalP < maxScore and total1 < maxScore and total2 < maxScore and total3 <
 my_dict = {totalP: name, total1: 'George', total2: 'Pablo', total3: 'Roman'}
 print(f'THE WINNER IS: {my_dict[min(my_dict)]}!')
 print('Thanks For Playing!')
-print("""Credits:
+print("""Credits->
 Instructions from:
-"https://gameonfamily.com/how-to-play-hearts-card-game/""")
+https://gameonfamily.com/how-to-play-hearts-card-game/""")
 input()
