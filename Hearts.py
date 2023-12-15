@@ -1,3 +1,4 @@
+#You will need a python interpreter software in order to run the code
 import random
 import time
 
